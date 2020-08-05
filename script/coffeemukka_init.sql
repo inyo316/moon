@@ -1,6 +1,6 @@
 -- 커피무까
 DROP SCHEMA IF EXISTS CoffeeMuKKa;
-
+--넌 나의 지구
 -- 커피무까
 CREATE SCHEMA CoffeeMuKKa;
 
